@@ -86,7 +86,7 @@
 		    <artifactId>Main</artifactId>  
 		    <version>1.0</version> 
 		    <scope>system</scope>
-		    <systemPath>D:\Other\Local folder\Все плагины\Ядра\nms-1.19.2.jar</systemPath>
+		    <systemPath>D:\nms-1.19.2.jar</systemPath>
 		</dependency>
 	</dependencies>
 	
